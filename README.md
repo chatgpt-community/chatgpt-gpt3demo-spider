@@ -48,9 +48,9 @@ just show me the complete python code
 
 ### 效果
 
-![img.png](code.png)
+![img.png](docs/code.png)
 
-![img.png](result.png)
+![img.png](docs/result.png)
 
 
 ### 加入星球学习更多、相互交流、谈合作
